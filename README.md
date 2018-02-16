@@ -10,7 +10,7 @@ Clone este repositório em qualquer pasta de sua preferência
 ## Utilização
 Entre no repositório
 
-`cd DjangoHello`
+`cd hellodjango`
 
 Inicie o virtualenv
 
