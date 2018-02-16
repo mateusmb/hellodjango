@@ -22,7 +22,7 @@ Entre no diretório do projeto
 
 Inicie o server do django
 
-`python manage.py runserver`
+`python3 manage.py runserver`
 
 Ou inicie o seu servidor http conforme as especificações do mantenedor
 
